@@ -32,6 +32,10 @@ cd <YOUR_PROJECT_NAME>
 # Step 3: Install the necessary dependencies.
 npm i
 
+#step 4: go to server folder through  terminal to install dependace because its a server of express and api its full backend :
+
+
+
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
@@ -71,3 +75,4 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
