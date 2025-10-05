@@ -1,0 +1,96 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Production build
+build/
+dist/
+
+# Static files generated for public assets
+public/static/
+
+# Coverage directory
+coverage/
+*.lcov
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Misc
+*.tgz
+*.tar.gz
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Parcel-bundler
+.cache/
+.parcel-cache/
+
+# Svelte (if using)
+__sapper__/
+.svelte/
+
+# Next.js (if using)
+.next/
+out/
+
+# Storybook
+.storybook/
+out-storybook/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# npm package lock
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Yarn v2
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# VS Code settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains IDEs
+.idea/
+
+# Node REPL history
+.node_repl_history
+
+# Test output
+test-output/
